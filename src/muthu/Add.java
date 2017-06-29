@@ -11,7 +11,7 @@ public class Add {
 			FileWriter fw = new FileWriter("D:\\muthuraj\\but.txt", true);
 		    BufferedWriter bw = new BufferedWriter(fw);
 			    //more code
-		    bw.write("hi India2");
+		    bw.write("hi India");
 		    bw.close();
 			    //more code
 			} catch (IOException e) {
